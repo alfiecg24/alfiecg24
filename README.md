@@ -71,7 +71,8 @@
 <a href="https://github.com/alfiecg24/github-readme-activity-graph"><img alt="Alfie's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=alfiecg24&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <h3 align="center" >
-  Show some ❤️ by starring some of my repos.
+  My most used language is Swift, but it shows
+  different above because I am in an organisation
 <h3/>
 
 
