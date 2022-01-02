@@ -61,6 +61,13 @@
 
 ## 📊 My Github Stats
 
+<br/>
+    <a href="https://github.com/alfiecg24/github-readme-stats"><img alt="Alfie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alfiecg24&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/alfiecg24/github-readme-stats"><img alt="Alfie's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfiecg24&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+<br/>
+<br/>
+
 <a href="https://github.com/alfiecg24/github-readme-activity-graph"><img alt="Alfie's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=alfiecg24&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <h3 align="center" >
