@@ -20,12 +20,6 @@
 
 - ⚡ Fun fact: **I only began my developer journey in Summer 2021**
 
-## Find me around the web 🌍
-
-- [Instagram](https://www.instagram.com/alfie_cg/)
-- [Twitter](https://twitter.com/alfiecgdev)
-- [My project](https://codelabapp.uk/)
-
 ## 🚀 Languages and Tools:
 
 <a href="https://www.python.org/" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/> </a>
@@ -69,11 +63,6 @@
 <br/>
 
 <a href="https://github.com/alfiecg24/github-readme-activity-graph"><img alt="Alfie's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=alfiecg24&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<h3 align="center" >
-  My most used language is Swift, but it shows
-  different above because I am in an organisation
-<h3/>
 
 
 
