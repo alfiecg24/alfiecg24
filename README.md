@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[codeLab](https://codelabapp.uk)**
+- 🔭 I’m currently working on **An External Project**
 
 - 🌱 I’m currently learning **Swift and Xcode**
 
