@@ -45,7 +45,7 @@
 <a href="https://www.apple.com/uk/macbook-air/" target="_blank"> <img src="https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white"/> </a>
 </p>
 
-## Streak
+## 🔥 Streak
 
 <p align="left" >
     <a href="https://github.com/alfiecg24/github-readme-streak-stats">
