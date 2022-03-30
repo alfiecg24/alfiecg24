@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **An External Project**
+- 🔭 I’m currently working on **building websites**
 
-- 🌱 I’m currently learning **Swift and Xcode**
+- 🌱 I’m currently learning **Web Development**
 
 - 👯 I’m looking to collaborate on **Open-source Projects**
 
