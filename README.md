@@ -6,15 +6,15 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **building websites**
+- 🔭 I’m currently working on **hacking my iDevices**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **iOS security**
 
 - 👯 I’m looking to collaborate on **Open-source Projects**
 
-- 👨‍💻 All of my projects are available on my **GitHub Repos**
+- 👨‍💻 You can find my projects on my **GitHub Repos**
 
-- 📫 How to reach me **alfiecg1@gmail.com**
+- 📫 How to reach me **support@alfiecg.uk**
 
 - 💬 Ask me anything about iOS Development! 
 
