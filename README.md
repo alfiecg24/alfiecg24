@@ -1,14 +1,14 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi, I'm Alfie <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">I'm a budding iOS Developer and Python enthusiast</h3>
+<h3 align="center">I'm a young iOS Developer and Python enthusiast</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **hacking my iDevices**
+- 🔭 I’m currently working on **hacking iOS**
 
-- 🌱 I’m currently learning **iOS security**
+- 🌱 I’m currently learning **C, C++ and ARM Assembly**
 
 - 👯 I’m looking to collaborate on **Open-source Projects**
 
