@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **hacking iOS**
 
-- 🌱 I’m currently learning **C, C++ and ARM Assembly**
+- 🌱 I’m currently learning **C, reverse engineering**
 
-- 👯 I’m looking to collaborate on **Open-source Projects**
+- 👯 I’m looking to collaborate on **iOS hacking projects**
 
 - 👨‍💻 You can find my projects on my **GitHub Repos**
 
