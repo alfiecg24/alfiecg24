@@ -14,7 +14,7 @@
 
 - 👨‍💻 You can find my projects on my **GitHub Repos**
 
-- 📫 How to reach me **alfie@alfiecg.uk**
+- 📫 How to reach me: **alfie@alfiecg.uk**, **@alfiehacks**
 
 - 💬 Ask me anything about iOS Development! 
 
