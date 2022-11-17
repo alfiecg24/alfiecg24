@@ -1,14 +1,14 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi, I'm Alfie <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">I'm a young iOS Developer and Python enthusiast</h3>
+<h3 align="center">I'm a young developer focusing on iOS apps and hacks</h3>
 
 
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **hacking iOS**
 
-- 🌱 I’m currently learning **C, reverse engineering**
+- 🌱 I’m currently learning **C, Objective-C**
 
 - 👯 I’m looking to collaborate on **iOS hacking projects**
 
@@ -16,24 +16,16 @@
 
 - 📫 How to reach me: **alfie@alfiecg.uk**, **@alfiehacks**
 
-- 💬 Ask me anything about iOS Development! 
+- 💬 Ask me anything about iOS! 
 
 - ⚡ Fun fact: **I only began my developer journey in Summer 2021**
 
 ## 🚀 Languages and Tools:
 
 <a href="https://www.python.org/" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/> </a>
-<a href="https://analytics.google.com/" target="_blank"> <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"/> </a> 
 <a href="https://www.swift.org" target="_blank"> <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/> </a> 
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> </a> 
 <a href="https://code.visualstudio.com" target="_blank"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> </a>
-<a href="https://www.arduino.cc" target="_blank"> <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/> </a> 
-<a href="https://slack.com/intl/en-gb/" target="_blank"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/> </a>
-<a href="https://www.microsoft.com/en-gb/microsoft-teams/group-chat-software" target="_blank"> <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"/> </a>
-<a href="https://www.netlify.com/" target="_blank"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> </a>
-<a href="https://cloud.google.com/" target="_blank"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/></a>
-<a href="https://www.shopify.co.uk" target="_blank"> <img src="https://img.shields.io/badge/shopify-8DB543?style=for-the-badge&logo=Shopify&logoColor=white"/> </a>
-<a href="https://cocoapods.org" target="_blank"> <img src="https://img.shields.io/badge/cocoapods-FA2A02?style=for-the-badge&logo=cocoapods&logoColor=white"/> </a> 
 <a href="https://udemy.com/" target="_blank"> <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/> </a>
 <a href="https://canva.com/" target="_blank"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/> </a> 
 <a href="https://www.notion.so" target="_blank"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/> </a> 
@@ -49,7 +41,7 @@
 
 <p align="left" >
     <a href="https://github.com/alfiecg24/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Alby's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=alfiecg24&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" height="200px" />
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Alfie's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=alfiecg24&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" height="200px" />
     </a>
 </p>
 
