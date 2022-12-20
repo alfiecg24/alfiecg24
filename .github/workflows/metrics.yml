@@ -21,6 +21,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_code: yes
-          plugin_code_languages: python, swift
+          plugin_code_languages: python, swift, c
           plugin_code_load: 400
 
