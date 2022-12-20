@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact: **I only began my developer journey in Summer 2021**
 
-![Metrics](/github-metrics.svg)
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="500">
 
 
 
