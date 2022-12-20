@@ -23,4 +23,5 @@ jobs:
           plugin_code: yes
           plugin_code_languages: python, swift, c
           plugin_code_load: 400
+          plugin_code_days: 365
 
