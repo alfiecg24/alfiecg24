@@ -6,15 +6,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **exploiting checkm8**
+- 🔭 I’m currently working on **reversing SecureROM**
 
 - 🌱 I’m currently learning to program in **C, ARM Assembly**
 
 - 👨‍💻 You can find my projects on my **GitHub Repos**
 
 - 📫 How to reach me: **alfie@alfiecg.uk**, **@alfiehacks**
-
-- 💬 Ask me anything about iOS hacking!
 
 
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="500">
