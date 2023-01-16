@@ -18,7 +18,6 @@
 
 
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="500">
-<img align="center" src="/code_snippet.svg" alt="Random code snippet" width="500">
 
 
 
