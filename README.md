@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **reversing SecureROM**
+- 🔭 I’m currently working on **my Swift Student Challenge submission (available soon here on GitHub)**
 
-- 🌱 I’m currently learning to program in **C, ARM Assembly**
+- 🌱 I’m currently learning to program in **C, ARM64 Assembly**
 
 - 👨‍💻 You can find my projects on my **GitHub Repos**
 
