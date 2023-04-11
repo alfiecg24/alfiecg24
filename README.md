@@ -12,7 +12,7 @@
 
 - 👨‍💻 You can find my projects on my **GitHub Repos**
 
-- 📫 How to reach me: **alfie@alfiecg.uk**, **@alfiehacks**
+- 📫 How to reach me: **alfie@alfiecg.uk**, **@alfiecg_dev**
 
 
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="500">
