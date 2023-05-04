@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **my Swift Student Challenge submission (available soon here on GitHub)**
+- 🔭 I’m currently working on **my exams - taking a break from projects**
 
 - 🌱 I’m currently learning to program in **C, ARM64 Assembly**
 
