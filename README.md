@@ -10,9 +10,7 @@
 
 📫 If you need to reach me: **alfie@alfiecg.uk**, **[@alfiecg_dev](https://twitter.com/alfiecg_dev)**
 
-
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="500">
 
-
-
- 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
