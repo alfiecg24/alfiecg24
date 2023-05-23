@@ -13,4 +13,10 @@
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="500">
 
 <!--START_SECTION:waka-->
+
+```text
+C       25 mins         ████████████████████████▓   98.19 %
+Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+```
+
 <!--END_SECTION:waka-->
