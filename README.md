@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Alfie <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">I'm a developer focusing on iOS apps and projects</h3>
+<h3 align="center">I'm focusing on iOS apps and projects</h3>
 
 
 ## 🙋‍♂️ About Me
