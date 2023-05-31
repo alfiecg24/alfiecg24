@@ -12,6 +12,8 @@
 
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="500">
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=alfiecg24)](https://git.io/streak-stats)
+
 <!--START_SECTION:waka-->
 
 ```text
