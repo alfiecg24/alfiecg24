@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-⏰ At the moment, I'm undertaking my GCSE exams - which are finishing next werk. Therefore, I have stopped working on _most_ projects - but there a few private projects that I'm making small contributions to when I have the time.
+⏰ At the moment, I'm undertaking my GCSE exams - which are finishing this week. Therefore, I have stopped working on _most_ projects - but there a few private projects that I'm making small contributions to when I have the time.
 
 💻 If you want to check out any of my existing projects, check out my GitHub repos - but, as a warning, a lot of them are unfinished!
 
