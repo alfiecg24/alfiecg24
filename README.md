@@ -4,7 +4,9 @@
 
 ## 🙋‍♂️ About Me
 
-⏰ At the moment, I’m working on a few private projects that I may end up making public soon.
+⏰ I've just finished a long season of exams, so I'm getting back into my projects. At the moment, those that I am working on are private - however, I may choose to make them public in the future.
+
+🎯 My goals at the moment are to become more fluent in C and ARM assembly, as well as deepen my knowledge of iOS internals.
 
 💻 If you want to check out any of my existing projects, check out my GitHub repos - but, as a warning, a lot of them are unfinished!
 
