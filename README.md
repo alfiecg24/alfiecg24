@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Alfie <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">I'm focusing on iOS apps and projects</h3>
+<h3 align="center">I'm working on iOS apps and projects</h3>
 
 
 ## 🙋‍♂️ About Me
 
-⏰ I've just finished a long season of exams, so I'm getting back into my projects. At the moment, those that I am working on are private - however, I may choose to make them public in the future.
+⏰ I've just finished a long season of exams, so I'm getting back into my projects. At the moment, those that I am working on are private - however, I may choose to make them public in the future. I’m also currently in holiday in San Francisco, so won’t be working on much.
 
 🎯 My goals at the moment are to become more fluent in C and ARM assembly, as well as deepen my knowledge of iOS internals.
 
