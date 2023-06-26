@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-⏰ I've just finished a long season of exams, so I'm getting back into my projects. At the moment, those that I am working on are private - however, I may choose to make them public in the future. I’m also currently in holiday in San Francisco, so won’t be working on much.
+⏰ I've just finished a long season of exams, so I'm getting back into my projects. At the moment, those that I am working on are private - however, I may choose to make them public in the future. I'm currently working on SoC exploitation, utilising the checkm8 exploit to help me learn more about iOS at a low level.
 
 🎯 My goals at the moment are to become more fluent in C and ARM assembly, as well as deepen my knowledge of iOS internals.
 
