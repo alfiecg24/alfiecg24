@@ -2,7 +2,7 @@
 <h3 align="center">I'm working on iOS apps and projects</h3>
 
 
-## 🙋‍♂️ About Me
+## 📖 About Me
 
 ⏰ At the moment, the projects that I am working on are private - however, I may choose to make them public in the future. I'm currently working on SoC exploitation, utilising the checkm8 exploit to help me learn more about iOS at a low level.
 
