@@ -12,6 +12,10 @@
 
 📫 If you need to reach me: **alfie@alfiecg.uk**, **[@alfiecg_dev](https://twitter.com/alfiecg_dev)**
 
+Total time spent coding since May 22nd, 2023:
+[![Total time spent coding since May 22, 2023](https://wakatime.com/badge/user/61592169-b9cf-4af8-b6fa-8ac7d4369b01.svg)](https://wakatime.com/@61592169-b9cf-4af8-b6fa-8ac7d4369b01)
+
+
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="500">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=alfiecg24)](https://git.io/streak-stats)
@@ -27,5 +31,3 @@ Makefile      16 mins         ▒░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-[![Total time spent coding since May 22, 2023](https://wakatime.com/badge/user/61592169-b9cf-4af8-b6fa-8ac7d4369b01.svg)](https://wakatime.com/@61592169-b9cf-4af8-b6fa-8ac7d4369b01)
