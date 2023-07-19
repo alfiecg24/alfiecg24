@@ -27,3 +27,5 @@ Makefile      16 mins         ▒░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+[![Total time spent coding since May 22, 2023](https://wakatime.com/badge/user/61592169-b9cf-4af8-b6fa-8ac7d4369b01.svg)](https://wakatime.com/@61592169-b9cf-4af8-b6fa-8ac7d4369b01)
