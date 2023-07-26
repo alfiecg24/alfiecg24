@@ -4,7 +4,7 @@
 
 ## 📖 About Me
 
-⏰ At the moment, the projects that I am working on are private - however, I may choose to make them public in the future. I'm currently working on SoC exploitation, utilising the checkm8 exploit to help me learn more about iOS at a low level.
+⏰ For the past few weeks, I've been working on [Achilles](https://github.com/alfiecg24/Achilles), a checkm8 utility for iOS devices that helped me learn a lot about the iOS boot chain. I'm now starting a private project so development of Achilles will slow down.
 
 🎯 My goals at the moment are to become more fluent in C and ARM assembly, as well as deepen my knowledge of iOS internals.
 
