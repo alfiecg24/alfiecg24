@@ -23,11 +23,11 @@ Total time spent coding since May 22nd, 2023 (beginning of tracking) :
 <!--START_SECTION:waka-->
 
 ```txt
-C             16 hrs 19 mins  ████████████████▒░░░░░░░░   65.60 %
-Markdown      4 hrs 6 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.50 %
-Assembly      1 hr 18 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
-Makefile      1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
-SCSS          39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
+C             17 hrs          ███████████████▒░░░░░░░░░   61.54 %
+Markdown      4 hrs 32 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.46 %
+YAML          1 hr 42 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+Assembly      1 hr 18 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
+Makefile      1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
 ```
 
 <!--END_SECTION:waka-->
