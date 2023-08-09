@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Alfie <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">I'm working on iOS apps and projects</h3>
+<h3 align="center">I'm working on iOS projects</h3>
 
 
 ## 📖 About Me
 
 ⏰ For the past few weeks, I've been working on [Achilles](https://github.com/alfiecg24/Achilles), a checkm8 utility for iOS devices that helped me learn a lot about the iOS boot chain. I'm now starting a private project so development of Achilles will slow down.
 
-🎯 My goals at the moment are to become more fluent in C and ARM assembly, as well as deepen my knowledge of iOS internals.
+🎯 My goals at the moment are to  continue to expand my knowledge of iOS internals.
 
 💻 If you want to check out any of my existing projects, check out my GitHub repos - but, as a warning, a lot of them are unfinished!
 
