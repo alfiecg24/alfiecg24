@@ -22,11 +22,11 @@ Total time spent coding since May 22nd, 2023 (beginning of tracking): [![Total t
 <!--START_SECTION:waka-->
 
 ```txt
-Swift            6 hrs 23 mins   ███████████████░░░░░░░░░░   60.07 %
-C                2 hrs 1 min     ████▓░░░░░░░░░░░░░░░░░░░░   19.11 %
-Other            37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
-Makefile         34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
-ca65 assembler   22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+Swift         4 hrs 16 mins   ███████████████▒░░░░░░░░░   60.74 %
+C             1 hr 7 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.89 %
+Other         36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
+Makefile      34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
+XML           13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
 ```
 
 <!--END_SECTION:waka-->
