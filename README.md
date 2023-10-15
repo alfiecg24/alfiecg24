@@ -4,7 +4,7 @@
 
 ## 📖 About Me
 
-⏰ For the past few weeks, I've been working on [Achilles](https://github.com/alfiecg24/Achilles), a checkm8 utility for iOS devices that helped me learn a lot about the iOS boot chain. I'm now starting a private project so development of Achilles will slow down.
+⏰ I've spent the past few weeks looking into the recently-patched CoreTrust vulnerability. Although I've not got a PoC (yet), I've released some for other researchers [here](https://gist.github.com/alfiecg24/bf91f3cb05254b2f5679d5ccdc4c87ef).
 
 🎯 My goals at the moment are to  continue to expand my knowledge of iOS internals.
 
