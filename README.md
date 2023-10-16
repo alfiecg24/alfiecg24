@@ -22,11 +22,11 @@ Total time spent coding since May 22nd, 2023 (beginning of tracking): <a href="h
 <!--START_SECTION:waka-->
 
 ```txt
-Swift            21 mins         ████████▓░░░░░░░░░░░░░░░░   35.26 %
-C                15 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.78 %
-Python           10 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.92 %
-Markdown         6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 %
-Assembly         4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
+Swift            21 mins         ███████░░░░░░░░░░░░░░░░░░   27.40 %
+C                15 mins         █████░░░░░░░░░░░░░░░░░░░░   20.16 %
+Bash             13 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.95 %
+Python           10 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.93 %
+Objective-C      8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
 ```
 
 <!--END_SECTION:waka-->
