@@ -1,16 +1,6 @@
-<h1 align="center">Hi, I'm Alfie <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">I'm working on iOS projects</h3>
+<h1 align="center">Alfie CG</h1>
 
-
-## 📖 About Me
-
-⏰ I've spent the past few weeks looking into the recently-patched CoreTrust vulnerability. Although I've not got a PoC (yet), I've released some notes for other researchers [here](https://gist.github.com/alfiecg24/bf91f3cb05254b2f5679d5ccdc4c87ef). Currently, I'm working on a MachO parser that will (hopefully) allow for easy exploitation of this bug.
-
-🎯 My goals at the moment are to continue to expand my knowledge of iOS internals.
-
-💻 If you want to check out any of my existing projects, check out my GitHub repos - but, as a warning, a lot of them are unfinished!
-
-📫 If you need to reach me: **alfie@alfiecg.uk**, **[@alfiecg_dev](https://twitter.com/alfiecg_dev)**
+Hi, I'm Alfie. I'm developing for iOS - whether it be hacking, app development, or other exploitation-related things. I've spent the past few weeks looking into the recently-patched CoreTrust vulnerability for iOS - and I've released some notes for other researchers [here](https://gist.github.com/alfiecg24/bf91f3cb05254b2f5679d5ccdc4c87ef). Currently, I'm working on a MachO parser that will (hopefully) allow for easy exploitation of this bug. If you need to reach me, you can at **alfie@alfiecg.uk**, or **[@alfiecg_dev](https://twitter.com/alfiecg_dev)** on Twitter.
 
 Total time spent coding since May 22nd, 2023 (beginning of tracking): <a href="https://wakatime.com/@61592169-b9cf-4af8-b6fa-8ac7d4369b01"><img src="https://wakatime.com/badge/user/61592169-b9cf-4af8-b6fa-8ac7d4369b01.svg" alt="Total time coded since May 22 2023" /></a>
 
