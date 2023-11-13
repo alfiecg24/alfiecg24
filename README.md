@@ -12,11 +12,11 @@ Total time spent coding since May 22nd, 2023 (beginning of tracking): <a href="h
 <!--START_SECTION:waka-->
 
 ```txt
-C          1 hr 55 mins    ██████████████░░░░░░░░░░░   55.45 %
-Markdown   40 mins         █████░░░░░░░░░░░░░░░░░░░░   19.69 %
-Makefile   24 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %
-C++        19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 %
-XML        7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+C             2 hrs 1 min     ████████████▓░░░░░░░░░░░░   50.67 %
+Markdown      40 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.02 %
+Makefile      24 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
+C++           19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
+Other         15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
 ```
 
 <!--END_SECTION:waka-->
