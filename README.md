@@ -16,11 +16,11 @@ You can reach me at **alfie@alfiecg.uk**, or **[@alfiecg_dev](https://twitter.co
 <!--START_SECTION:waka-->
 
 ```txt
-Swift         5 hrs 18 mins   █████████▒░░░░░░░░░░░░░░░   37.30 %
-Objective-C   4 hrs 6 mins    ███████▒░░░░░░░░░░░░░░░░░   28.87 %
-C             3 hrs 19 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.30 %
-Markdown      45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
-XML           21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+Swift         4 hrs 42 mins   ████████▓░░░░░░░░░░░░░░░░   34.56 %
+Objective-C   4 hrs 23 mins   ████████░░░░░░░░░░░░░░░░░   32.25 %
+C             3 hrs 3 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.46 %
+Markdown      45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
+XML           22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
 ```
 
 <!--END_SECTION:waka-->
