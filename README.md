@@ -16,9 +16,10 @@ You can reach me at **alfie@alfiecg.uk**, or **[@alfiecg_dev](https://twitter.co
 <!--START_SECTION:waka-->
 
 ```txt
-Assembly   31 mins         ████████████▓░░░░░░░░░░░░   51.09 %
-C          26 mins         ███████████░░░░░░░░░░░░░░   43.43 %
-Text       3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
+C             32 mins         ████████████░░░░░░░░░░░░░   48.42 %
+Assembly      31 mins         ███████████▓░░░░░░░░░░░░░   46.47 %
+Text          3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
+Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
