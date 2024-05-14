@@ -16,11 +16,11 @@ You can reach me at **alfie@alfiecg.uk**, or **[@alfiecg_dev](https://twitter.co
 <!--START_SECTION:waka-->
 
 ```txt
-C             1 hr 32 mins    ███████████████▒░░░░░░░░░   60.84 %
-Assembly      44 mins         ███████▒░░░░░░░░░░░░░░░░░   28.99 %
-Makefile      11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
-Text          3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-Git Config    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+C             5 hrs 51 mins   █████████████████████░░░░   84.66 %
+Assembly      44 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 %
+Makefile      11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+Text          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Rust          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 <!--END_SECTION:waka-->
