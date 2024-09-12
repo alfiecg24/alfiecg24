@@ -1,6 +1,4 @@
-Some of my projects:
-* [ChOma](https://github.com/opa334/ChOma)
-* [Achilles](https://github.com/alfiecg24/Achilles)
+<h1 align="center">Alfie CG</h1>
 
 You can reach me at **alfie@alfiecg.uk**, or **[@alfiecg_dev](https://twitter.com/alfiecg_dev)** on Twitter.
 
