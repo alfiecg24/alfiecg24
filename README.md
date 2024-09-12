@@ -1,5 +1,3 @@
-<h1 align="center">Alfie CG</h1>
-
 Some of my projects:
 * [ChOma](https://github.com/opa334/ChOma)
 * [Achilles](https://github.com/alfiecg24/Achilles)
