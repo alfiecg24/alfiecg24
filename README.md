@@ -12,11 +12,11 @@ You can reach me at **alfie@alfiecg.uk**, or **[@alfiecg_dev](https://twitter.co
 <!--START_SECTION:waka-->
 
 ```txt
-C             9 hrs 10 mins   ██████████████████▓░░░░░░   74.11 %
-Objective-C   1 hr 48 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.62 %
-Assembly      22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
-Makefile      19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-Markdown      19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+C             11 hrs 42 mins  █████████████████▒░░░░░░░   69.14 %
+Objective-C   3 hrs 15 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.23 %
+Swift         39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+Assembly      24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+Makefile      20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
 ```
 
 <!--END_SECTION:waka-->
