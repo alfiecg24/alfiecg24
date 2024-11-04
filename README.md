@@ -20,3 +20,5 @@ Python        3 mins          ▒░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M5R3BHU)
