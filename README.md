@@ -12,7 +12,8 @@ iOS developer and security researcher. I've worked on a few projects, namely [Tr
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other   25 mins         █████████████▒░░░░░░░░░░░   53.87 %
+Swift   21 mins         ███████████▓░░░░░░░░░░░░░   46.13 %
 ```
 
 <!--END_SECTION:waka-->
