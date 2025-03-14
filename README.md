@@ -1,6 +1,6 @@
 <h1 align="center">Alfie CG</h1>
 
-iOS developer and security researcher. I've worked on a few projects, namely [TrollStore](https://github.com/opa334/TrollStore) and [TrollInstallerX](https://github.com/alfiecg24/TrollInstallerX). At the moment, I am working on Apex, an untethered jailbreak for iOS 14. I am also looking into PAC and attempting to exploit several patched bypasses. You can reach me at **alfie@alfiecg.uk**, or **[@alfiecg_dev](https://twitter.com/alfiecg_dev)** on Twitter.
+iOS developer and security researcher. I've worked on a few projects, with some of my favourites being [TrollStore](https://github.com/opa334/TrollStore), [TrollInstallerX](https://github.com/alfiecg24/TrollInstallerX) and [Trigon](https://github.com/alfiecg24/Trigon). At the moment, I am working on Apex, an untethered jailbreak for iOS 14. I've also looked into PAC and attempted to exploit several patched bypasses, as well as more recently using my [KextRW](https://github.com/alfiecg24/KextRW) project to build an "experimentation platform" of sorts for security research on the latest versions of macOS. You can reach me at **alfie@alfiecg.uk**, or **[@alfiecg_dev](https://twitter.com/alfiecg_dev)** on Twitter.
 
 <a href="https://wakatime.com/@61592169-b9cf-4af8-b6fa-8ac7d4369b01"><img src="https://wakatime.com/badge/user/61592169-b9cf-4af8-b6fa-8ac7d4369b01.svg" alt="Total time coded since May 22 2023" /></a>
 <!---
