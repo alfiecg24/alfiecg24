@@ -12,11 +12,10 @@ iOS developer and security researcher. I've worked on a few projects, with some 
 <!--START_SECTION:waka-->
 
 ```txt
-C             2 hrs 27 mins   ████████████████▓░░░░░░░░   66.82 %
-Objective-C   53 mins         ██████░░░░░░░░░░░░░░░░░░░   24.05 %
-Assembly      16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
-Other         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
-Makefile      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Objective-C   2 hrs 17 mins   ██████████████▒░░░░░░░░░░   56.98 %
+C             1 hr 30 mins    █████████▒░░░░░░░░░░░░░░░   37.40 %
+Other         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
+Logos         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 ```
 
 <!--END_SECTION:waka-->
