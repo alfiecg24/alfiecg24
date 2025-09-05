@@ -12,8 +12,8 @@ iOS developer and security researcher. I've worked on a few projects, with some 
 <!--START_SECTION:waka-->
 
 ```txt
-C          19 mins         █████████████▓░░░░░░░░░░░   54.60 %
-Assembly   16 mins         ███████████▒░░░░░░░░░░░░░   45.40 %
+C          16 mins         ██████████████████░░░░░░░   71.37 %
+Assembly   6 mins          ███████░░░░░░░░░░░░░░░░░░   28.63 %
 ```
 
 <!--END_SECTION:waka-->
