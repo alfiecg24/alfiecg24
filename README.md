@@ -12,8 +12,7 @@ iOS developer and security researcher. I've worked on a few projects, with some 
 <!--START_SECTION:waka-->
 
 ```txt
-C        9 mins          ████████████████████████▒   96.76 %
-Python   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
